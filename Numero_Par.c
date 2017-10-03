@@ -15,7 +15,6 @@ int main() {
     else {
 		printf("impar");
     }
-	
 return 0;
 }
 
